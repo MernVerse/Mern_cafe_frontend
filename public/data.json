@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "6778e6c319da8caa3a815f8f",
+    "name": "Cappuccino",
+    "category": "Beverage",
+    "price": 215,
+    "description": "A rich and creamy coffee.",
+    "imageUrl": "https://angelinos.com/cdn/shop/articles/How_Much_Milk_Coffee_in_a_Cappuccino.jpg?v=1701189122&width=320",
+    "__v": 0
+  },
+  {
+    "_id": "6779318aa379908cdd555cbe",
+    "name": "Cold Coffe",
+    "category": "Drink",
+    "price": 25,
+    "description": "A rich and creamy coffee.",
+    "imageUrl": "https://angelinos.com/cdn/shop/articles/How_Much_Milk_Coffee_in_a_Cappuccino.jpg?v=1701189122&width=320",
+    "__v": 0
+  },
+  {
+    "_id": "677b80eaa4f5a8ff8f8b9a89",
+    "name": "Chicken Burger",
+    "category": "Cuisine",
+    "price": 25,
+    "description": "Chicken burger is bad for health ",
+    "imageUrl": "https://th.bing.com/th/id/OIP.9WOvj3rAHJ_vug999PKi0QHaHa?rs=1&pid=ImgDetMain",
+    "__v": 0
+  },
+  {
+    "_id": "677b8276a4f5a8ff8f8b9a9c",
+    "name": "Chicken Pizza",
+    "category": "Beverage",
+    "price": 250,
+    "description": "Chicken burger is bad for health ",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtgR9UIrycqubW7q3A0EJnczU5ZcfUx6xU1A&s",
+    "__v": 0
+  },
+  {
+    "_id": "677bf70349b540b3bc900c68",
+    "name": "Noodles",
+    "category": "Chinese",
+    "price": 60,
+    "description": "Chicken burger is bad for health ",
+    "imageUrl": "https://angelinos.com/cdn/shop/articles/How_Much_Milk_Coffee_in_a_Cappuccino.jpg?v=1701189122&width=320",
+    "__v": 0
+  },
+  {
+    "_id": "677c1e604ff68bd0256cd3f9",
+    "name": "chowmein",
+    "category": "Chinese",
+    "price": 606,
+    "description": "A rich and creamy coffee.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzLK4MJEpA4XZ05YrdI8l1OmXRZFyy8o1yFw&s",
+    "__v": 0
+  },
+  {
+    "_id": "677c2e76e61fcef47c25fde9",
+    "name": "Lacchi",
+    "category": "Drink",
+    "price": 50,
+    "description": "lacchi",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVPDLRtfyQInhck8Fb8dQu9THDRKA_S5m7yjCzdvHze1EvZgs6RLEDOYCZ7Yl1Eg4mlck&usqp=CAU",
+    "__v": 0
+  }
+]
